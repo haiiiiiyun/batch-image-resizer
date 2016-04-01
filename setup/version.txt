@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(3, 2, 0, 0),
+    prodvers=(3, 2, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        '040904E4', 
+        [StringStruct('CompanyName', 'Hibosoft Software'),
+        StringStruct('FileDescription', 'Hibosoft Batch Image Resizer'),
+        StringStruct('FileVersion', '3.2'),
+        StringStruct('InternalName', 'BatchImageResizer.exe'),
+        StringStruct('LegalCopyright', 'Copyright (C) 2009-2014 Hibosoft Software'),
+        StringStruct('OriginalFilename', 'BatchImageResizer.exe'),
+        StringStruct('ProductName', 'Hibosoft Batch Image Resizer'),
+        StringStruct('ProductVersion', '3.2.r32')])
+      ]), 
+    VarFileInfo([VarStruct('Translation', [1033, 1252])])
+  ]
+)

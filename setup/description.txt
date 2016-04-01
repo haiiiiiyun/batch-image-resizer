@@ -1,0 +1,103 @@
+Hibosoft Batch Image Resizer
+
+============short desc, 80 ===============
+Software to resize large numbers of images in seconds with just a few clicks. 
+
+============medium desc,450 ===============
+A program designed to resize large numbers of images/photos/pictures in seconds with just a few clicks. All popular image formats are supported.
+Top Benefits of Hibosoft Batch Image Resizer:
+1. Save time with boring repetitive tasks
+2. Image resizing in 3 simple steps...
+3. Fast processing, even with large high definition images.
+
+============medium desc, 2000 ===============
+A program designed to resize large numbers of images/photos/pictures in seconds with just a few clicks. All popular image formats are supported.
+
+Top Benefits of Hibosoft Batch Image Resizer:
+
+1. Save time with boring repetitive tasks
+Supports batch mode, large numbers of images can be resized in a single batch process.
+
+2. Image resizing in 3 simple steps...
+Drop your files/folders into the application's window, set output options, and hit start - that's it!
+
+3. Fast processing, even with large high definition images.
+Supports multi-thread processing, saving your significant time in dealing with thousands of images.
+
+============long desc, 4000 ===============
+Hibosoft Batch Image Resizer is a program designed to resize large numbers of images/photos/pictures in seconds with just a few clicks. It supportes all major image formats , such as JPG, GIF, BMP, PNG, TIFF ...
+Batch Image Resizer lets you resize in 3 easy steps, allowing you to choose the images you want to resize, the dimensions, and where you want to save the new images.
+
+With Batch Image Resizer , you can:
+1. Unlock the photos from your digital camera, making it easier and faster to email to friends, upload to photo sharing websites or upload to websites that offer photo printing services.
+
+2. Automate your resizing tasks, saving your significant time with boring repetitive tasks.
+
+Key Features:
+
+1. Saving time
+
+Only a few clicks to save time with boring repetivive tasks.
+
+> Batch Processing Mode
+Resizing large numbers of image files of different formats in a single step.
+You don't have the time to go through resizing every image one-by-one. Let Batch Image Resizer do the work for you.
+
+> 200% faster processing speed
+Speed up the process by 200% applying multithreading technology even with large high definition images.
+Saving your significant time in dealing with thousands of images.
+
+2. User-friendly
+
+Drop your files/folders into the application's window, set output options, and hit start - that's it!
+
+> Drag & Drop
+Support for drag & drop for files and folders (including subfolders).
+Just drag and drop files/folders into the window, with a few clicks to complete the resizing with supervising the whole process on real time.
+
+> Settings Saving & Restore
+The output settings are saved each time, and will be restored next time you open the software.
+
+> Lifetime Free Upgrade
+Free Technical Support and lifetime free Upgrade let you feel reassured to use our software.
+
+> All popular image formats are supported
+All popular image formats are supported, such as JPG, GIF, BMP, PNG, TIFF...
+
+3. Six Useful Resizing Modes
+
+Including width & height in pixel, and width & height in percentage.
+
+> Width & Height (Pixels)
+Set the width and the height in pixel.
+
+> With Pixel (Keep Proportions)
+Set the width in pixel, and keep the aspect ratio.
+
+> Height Pixels (Keep Proportions)
+Set the height in pixel, and keep the aspect ratio.
+
+> Width & Height (Percentage)
+Set the width and the height in percentage.
+
+> With Percentage (Keep Proportions)
+Set the width in percentage, and keep the aspect ratio.
+
+> Height Percentage (Keep Proportions)
+Set the height in percentage, and keep the aspect ratio.
+
+4. More Control On Output
+
+Specify output folder, output format, file datetime attribute.
+
+> Output Format
+Supported out formats are "As Original", "JPEG", "PNG", "BMP",...
+You can even use this feature to convert your images format with ease.
+
+> Keep Original Date/Time Attributes
+Copy the origianl file's creation/modification datetime attributes to the output file.
+
+Key words:
+
+image resizer | batch resizer | resize image | resize | rename image | image converter
+image resizer, batch resizer, resize image, resize, rename image, image converter

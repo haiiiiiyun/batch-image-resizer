@@ -1,0 +1,32 @@
+<RCC>
+  <qresource>
+    <file>images/guarantee30.png</file>
+    <file>images/Ir_48x48.png</file>
+    <file>images/check.png</file>
+    <file>images/splash.png</file>
+    <file>images/line-bg.png</file>
+    <file>images/top-line-bg.png</file>
+    <file>images/info.png</file>
+    <file>images/key.png</file>
+    <file>images/hibosoft_logo.png</file>
+    <file>images/batch-image-resizer-name.png</file>
+    <file>images/coffee.png</file>
+    <file>images/trashcan-delete3.png</file>
+    <file>images/add_image.png</file>
+    <file>images/clear.png</file>
+    <file>images/add_folder.png</file>
+    <file>images/bottom-line-bg.png</file>
+    <file>images/menu-tools-bg.png</file>
+    <file>images/exit.png</file>
+    <file>images/setting.png</file>
+    <file>images/step1.png</file>
+    <file>images/open.png</file>
+    <file>images/logo.png</file>
+    <file>images/help_button.png</file>
+    <file>images/prompt_text.png</file>
+    <file>images/prompt_button.png</file>
+    <file>images/prompt_text_cn.png</file>
+    <file>images/prompt_button_cn.png</file>
+    <file>images/ratio.png</file>
+  </qresource>
+</RCC>

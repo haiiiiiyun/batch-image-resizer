@@ -1,0 +1,17 @@
+1. create png icons with 256x256, 64x64, 48x48, 32x32, 24x24, 20x20, 16x16 using Photoshop,
+	combine and save as ico using Greenfish Icon Editor Pro 2.0
+# 2. edit version.txt for version information
+# 3. edit progName.spec file
+# 4. pack exe using pyinstaller-pyinstaller-30a15e0(dev trunk), v1.5.1 has 
+#	"R6034 error: "An application has made an attempt to load the C library" bug
+#	cmd: python path/to/pyinstaller.py path/to/progName.spec
+
+5. edit setup.py for py2exe
+6. copy setup.py, icon.ico, msvcp90.dll from `setup' folder to 'src' folder.
+7. change working dir to 'src' folder, run "python setup.py" to pack exe.
+8. edit setup.nsi for NSIS
+9. copy files(icon.ico, setup.nsi, license.txt, orange-install.ico,orange-uninstall.ico,orange-r.bmp,orange-uninstall-r.bmp ) from `setup' folder to `dist' folder
+10. change working dir to `dist'.
+11. change main program.exe icon using Resource Hacker(For Vista/Win7 large icon)
+12. compile setup.nsi using NSIS
+13. done.
