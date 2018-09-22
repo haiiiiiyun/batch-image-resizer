@@ -95,7 +95,8 @@ if os.name == 'nt' and __have_ctypes:
         (1, 'hObject'),))
 
     __OPEN_EXISTING = 3
-    __FILE_WRITE_ATTRIBUTES = 0x00000100
+    __FILE_WRITE_ATTRIBUTES = 0x40000000 # GENERIC_READ (0x80000000L)
+    __FILE_READ_ATTRIBUTES = 0x80000000 # GENERIC_WRITE (0x40000000L)
     __FILE_FLAG_BACKUP_SEMANTICS = 0x02000000
 
     def __check_CreateFile(result, func, args):
@@ -113,7 +114,7 @@ if os.name == 'nt' and __have_ctypes:
 
     def getnativefiletime(filename):
         """gets file's ctime, atime and mtime in native units (uses Windows native API)"""
-        hFile = __CreateFile(filename, __FILE_WRITE_ATTRIBUTES, 0, None, __OPEN_EXISTING, __FILE_FLAG_BACKUP_SEMANTICS, None)
+        hFile = __CreateFile(filename, __FILE_READ_ATTRIBUTES, 0, None, __OPEN_EXISTING, __FILE_FLAG_BACKUP_SEMANTICS, None)
         try:
             ctime, atime, mtime = __GetFileTime(hFile)
             return filetime_result((ctime.value, atime.value, mtime.value))
